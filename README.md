@@ -1,34 +1,55 @@
+﻿[//]: # (Author: Ashraf Morningstar | GitHub: https://github.com/AshrafMorningstar)
 # Micro Portfolio Generator
 
-🚀 A production-ready static portfolio generator.
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/micro-portfolio-generator)
 
-## 🔍 Why this project exists
+ðŸš€ A production-ready static portfolio generator.
+
+## ðŸ” Why this project exists
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/micro-portfolio-generator)
 A production-grade implementation demonstrating modern web engineering practices, focusing on performance, accessibility, and scalability.
 
-## ✨ Features
-- 🚀 Production-ready architecture
-- 🎨 Premium UI/UX design system
-- ♿ WCAG AA Accessible
-- 📱 Fully Responsive
-- ⚡ Optimized Performance
+## âœ¨ Features
 
-## 🧠 Architecture
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/micro-portfolio-generator)
+- ðŸš€ Production-ready architecture
+- ðŸŽ¨ Premium UI/UX design system
+- â™¿ WCAG AA Accessible
+- ðŸ“± Fully Responsive
+- âš¡ Optimized Performance
+
+## ðŸ§  Architecture
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/micro-portfolio-generator)
 Built with clean separation of concerns and modern design patterns.
 
-## 🚀 Live Demo
+## ðŸš€ Live Demo
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/micro-portfolio-generator)
 [Deployment Link Placeholder]
 
-## 📦 Installation
+## ðŸ“¦ Installation
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/micro-portfolio-generator)
 ```bash
 npm install
 npm run dev
 ```
 
-## 🛠 Tech Stack
-React • Next.js • Tailwind CSS
+## ðŸ›  Tech Stack
 
-## 📈 SEO Keywords
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/micro-portfolio-generator)
+React â€¢ Next.js â€¢ Tailwind CSS
+
+## ðŸ“ˆ SEO Keywords
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/micro-portfolio-generator)
 portfolio generator, resume website, personal portfolio
 
-## 📄 License
+## ðŸ“„ License
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/micro-portfolio-generator)
 MIT
+
+
